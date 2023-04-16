@@ -8,7 +8,8 @@ A list of the most useful features that every iOS app needs
 
 <!--START_SECTION:activity--> 
 
-[SDWebImage 🔗][SDWebImageLink]
+[SDWebImage 🔗][SDWebImageLink]\
+[Kingfisher 🔗][kingfisherLink]
 
 <!--END_SECTION:activity-->
 
@@ -17,3 +18,4 @@ A list of the most useful features that every iOS app needs
 -------------------------------------------------------------------------------- 
 
 [SDWebImageLink]: https://github.com/SDWebImage/SDWebImage
+[kingfisherLink]: https://github.com/onevcat/Kingfisher
