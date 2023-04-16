@@ -16,4 +16,4 @@ A list of the most useful features that every iOS app needs
 
 -------------------------------------------------------------------------------- 
 
-[SDWebImageLink]: [https://github.com/SDWebImage/SDWebImage]
+[SDWebImageLink]: https://github.com/SDWebImage/SDWebImage
