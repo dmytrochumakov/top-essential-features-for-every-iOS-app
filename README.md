@@ -1,6 +1,19 @@
 # Top essential features for every iOS app
 A list of the most useful features that every iOS app needs
 
+### Networking
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Alamofire 🔗][alamofireLink]\
+
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Image Caching
 
 <details>
@@ -17,5 +30,6 @@ A list of the most useful features that every iOS app needs
 
 -------------------------------------------------------------------------------- 
 
+[alamofireLink]: https://github.com/Alamofire/Alamofire
 [SDWebImageLink]: https://github.com/SDWebImage/SDWebImage
 [kingfisherLink]: https://github.com/onevcat/Kingfisher
