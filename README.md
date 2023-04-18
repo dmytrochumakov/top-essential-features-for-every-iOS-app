@@ -9,6 +9,7 @@ A list of the most useful features that every iOS app needs
 <!--START_SECTION:activity--> 
 
 [Alamofire 🔗][alamofireLink]\
+[AFNetworking "Deprecated" 🔗][afNetworkingLink]
 
 <!--END_SECTION:activity-->
 
@@ -31,5 +32,6 @@ A list of the most useful features that every iOS app needs
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
+[afNetworkingLink]: [https://github.com/AFNetworking/AFNetworking]
 [SDWebImageLink]: https://github.com/SDWebImage/SDWebImage
 [kingfisherLink]: https://github.com/onevcat/Kingfisher
