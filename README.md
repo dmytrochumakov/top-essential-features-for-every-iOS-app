@@ -29,7 +29,7 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
-### Push Notification
+### Push Notifications
 
 <details>
  <summary></summary>
