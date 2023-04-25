@@ -55,6 +55,9 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Dynamic Links
+[Firebase Dynamic Links 🔗][firebaseDynamicLinksLink]
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -63,3 +66,4 @@ A list of the most useful features that every iOS app needs
 [kingfisherLink]: https://github.com/onevcat/Kingfisher
 [fcmLink]: https://firebase.google.com/docs/cloud-messaging/ios/client
 [firebasePerformanceMonitoringLink]: https://firebase.google.com/docs/perf-mon
+[firebaseDynamicLinksLink]: https://firebase.google.com/docs/dynamic-links
