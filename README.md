@@ -42,6 +42,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Monitoring
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Firebase Performance Monitoring 🔗][firebasePerformanceMonitoringLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -49,3 +62,4 @@ A list of the most useful features that every iOS app needs
 [SDWebImageLink]: https://github.com/SDWebImage/SDWebImage
 [kingfisherLink]: https://github.com/onevcat/Kingfisher
 [fcmLink]: https://firebase.google.com/docs/cloud-messaging/ios/client
+[firebasePerformanceMonitoringLink]: https://firebase.google.com/docs/perf-mon
