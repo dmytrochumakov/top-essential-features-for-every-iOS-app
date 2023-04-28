@@ -68,8 +68,8 @@ A list of the most useful features that every iOS app needs
 
 <!--START_SECTION:activity--> 
 
-[Face ID and Touch ID in Swift 📑][faceIDAndTouchIDInSwiftArticleLink]
-[Face ID & Touch ID Usage in App 🎬][faceIDAndTouchIDUsageInAppVideoLink]
+[Face ID and Touch ID in Swift 📑][faceIDAndTouchIDInSwiftArticleLink]\
+[Face ID & Touch ID Usage in App 🎬][faceIDAndTouchIDUsageInAppVideoLink]\
 [Logging a User into Your App with Face ID or Touch ID 📖][loggingAUserIntoYourAppWithFaceIDORTouchDocLink]
 
 <!--END_SECTION:activity-->
