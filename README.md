@@ -102,6 +102,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Social Login
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Sign in with Apple 📑][signInWithAppleArticleLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -117,3 +130,4 @@ A list of the most useful features that every iOS app needs
 [loggingAUserIntoYourAppWithFaceIDORTouchDocLink]: https://developer.apple.com/documentation/localauthentication/logging_a_user_into_your_app_with_face_id_or_touch_id
 [notificationBannerLink]: https://github.com/Daltron/NotificationBanner
 [keychainAccessLink]: https://github.com/kishikawakatsumi/KeychainAccess
+[signInWithAppleArticleLink]: https://developer.apple.com/sign-in-with-apple/
