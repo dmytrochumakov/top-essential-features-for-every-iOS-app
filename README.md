@@ -36,7 +36,7 @@ A list of the most useful features that every iOS app needs
 
 <!--START_SECTION:activity--> 
 
-[Firebase Cloud Messaging (FCM) 🔗][fcmLink]
+[Firebase Cloud Messaging (FCM) 📖][fcmLink]
 
 <!--END_SECTION:activity-->
 
@@ -49,17 +49,32 @@ A list of the most useful features that every iOS app needs
 
 <!--START_SECTION:activity--> 
 
-[Firebase Performance Monitoring 🔗][firebasePerformanceMonitoringLink]
+[Firebase Performance Monitoring 📖][firebasePerformanceMonitoringLink]
 
 <!--END_SECTION:activity-->
 
 </details>
 
 ### Dynamic Links
-[Firebase Dynamic Links 🔗][firebaseDynamicLinksLink]
+[Firebase Dynamic Links 📖][firebaseDynamicLinksLink]
 
 ### Universal Links
-[Universal Links 🔗][universalLinksLink]
+[Universal Links 📖][universalLinksLink]
+
+### Local Authentication
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Face ID and Touch ID in Swift 📑][faceIDAndTouchIDInSwiftArticleLink]
+[Face ID & Touch ID Usage in App 🎬][faceIDAndTouchIDUsageInAppVideoLink]
+[Logging a User into Your App with Face ID or Touch ID 📖][loggingAUserIntoYourAppWithFaceIDORTouchDocLink]
+
+<!--END_SECTION:activity-->
+
+</details>
 
 -------------------------------------------------------------------------------- 
 
@@ -71,3 +86,7 @@ A list of the most useful features that every iOS app needs
 [firebasePerformanceMonitoringLink]: https://firebase.google.com/docs/perf-mon
 [firebaseDynamicLinksLink]: https://firebase.google.com/docs/dynamic-links
 [universalLinksLink]: https://developer.apple.com/ios/universal-links/
+[faceIDAndTouchIDInSwiftArticleLink]: https://www.advancedswift.com/face-id-touch-id-swift/
+[faceIDAndTouchIDUsageInAppVideoLink]: https://www.youtube.com/watch?v=SHmDljfu2lk&ab_channel=iOSAcademy
+[loggingAUserIntoYourAppWithFaceIDORTouchDocLink]: https://developer.apple.com/documentation/localauthentication/logging_a_user_into_your_app_with_face_id_or_touch_id
+
