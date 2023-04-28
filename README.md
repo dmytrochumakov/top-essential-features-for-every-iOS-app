@@ -89,6 +89,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Security
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[KeychainAccess 🔗][keychainAccessLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -103,4 +116,4 @@ A list of the most useful features that every iOS app needs
 [faceIDAndTouchIDUsageInAppVideoLink]: https://www.youtube.com/watch?v=SHmDljfu2lk&ab_channel=iOSAcademy
 [loggingAUserIntoYourAppWithFaceIDORTouchDocLink]: https://developer.apple.com/documentation/localauthentication/logging_a_user_into_your_app_with_face_id_or_touch_id
 [notificationBannerLink]: https://github.com/Daltron/NotificationBanner
-
+[keychainAccessLink]: https://github.com/kishikawakatsumi/KeychainAccess
