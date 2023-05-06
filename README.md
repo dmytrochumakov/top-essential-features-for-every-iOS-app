@@ -23,7 +23,8 @@ A list of the most useful features that every iOS app needs
 <!--START_SECTION:activity--> 
 
 [SDWebImage 🔗][SDWebImageLink]\
-[Kingfisher 🔗][kingfisherLink]
+[Kingfisher 🔗][kingfisherLink]\
+[AsyncImage 📖][asyncImageLink]
 
 <!--END_SECTION:activity-->
 
@@ -131,3 +132,4 @@ A list of the most useful features that every iOS app needs
 [notificationBannerLink]: https://github.com/Daltron/NotificationBanner
 [keychainAccessLink]: https://github.com/kishikawakatsumi/KeychainAccess
 [signInWithAppleArticleLink]: https://developer.apple.com/sign-in-with-apple/
+[asyncImageLink]: https://developer.apple.com/documentation/swiftui/asyncimage
