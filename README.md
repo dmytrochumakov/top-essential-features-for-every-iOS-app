@@ -147,7 +147,3 @@ A list of the most useful features that every iOS app needs
 [signInWithAppleArticleLink]: https://developer.apple.com/sign-in-with-apple/
 [asyncImageLink]: https://developer.apple.com/documentation/swiftui/asyncimage
 [designingForiOSLink]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
-[designingForiPadOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ipados
-[designingForMacOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-macos
-[designingForWatchOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-watchos
-[designingForTVOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos
