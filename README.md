@@ -1,6 +1,19 @@
 # Top essential features for every iOS app
 A list of the most useful features that every iOS app needs
 
+### Human Interface Guidelines
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Designing for iOS 🔗][designingForiOSLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Networking
 
 <details>
@@ -133,3 +146,8 @@ A list of the most useful features that every iOS app needs
 [keychainAccessLink]: https://github.com/kishikawakatsumi/KeychainAccess
 [signInWithAppleArticleLink]: https://developer.apple.com/sign-in-with-apple/
 [asyncImageLink]: https://developer.apple.com/documentation/swiftui/asyncimage
+[designingForiOSLink]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
+[designingForiPadOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ipados
+[designingForMacOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-macos
+[designingForWatchOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-watchos
+[designingForTVOS]: https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos
