@@ -194,6 +194,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Sharing Content
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[UIActivityViewController 📖][UIActivityViewControllerLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -217,3 +230,4 @@ A list of the most useful features that every iOS app needs
 [appShortcutsLink]: https://developer.apple.com/documentation/appintents/app-shortcuts
 [AVFoundationLink]: https://developer.apple.com/documentation/avfoundation/
 [coreAudioLink]: https://developer.apple.com/documentation/coreaudio
+[UIActivityViewControllerLink]: https://developer.apple.com/documentation/uikit/uiactivityviewcontroller
