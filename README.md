@@ -155,6 +155,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Shortcuts
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[App Shortcuts 📖][appShortcutsLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -175,3 +188,4 @@ A list of the most useful features that every iOS app needs
 [designingForiOSLink]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
 [accessibilityLink]: https://developer.apple.com/accessibility/
 [siriKitLink]: https://developer.apple.com/documentation/sirikit
+[appShortcutsLink]: https://developer.apple.com/documentation/appintents/app-shortcuts
