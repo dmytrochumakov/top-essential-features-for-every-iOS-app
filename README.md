@@ -181,6 +181,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Audio
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Core Audio 📖][coreAudioLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -203,3 +216,4 @@ A list of the most useful features that every iOS app needs
 [siriKitLink]: https://developer.apple.com/documentation/sirikit
 [appShortcutsLink]: https://developer.apple.com/documentation/appintents/app-shortcuts
 [AVFoundationLink]: https://developer.apple.com/documentation/avfoundation/
+[coreAudioLink]: https://developer.apple.com/documentation/coreaudio
