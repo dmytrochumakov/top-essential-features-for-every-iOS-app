@@ -142,6 +142,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Siri
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[SiriKit 📖][siriKitLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -161,3 +174,4 @@ A list of the most useful features that every iOS app needs
 [asyncImageLink]: https://developer.apple.com/documentation/swiftui/asyncimage
 [designingForiOSLink]: https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
 [accessibilityLink]: https://developer.apple.com/accessibility/
+[siriKitLink]: https://developer.apple.com/documentation/sirikit
