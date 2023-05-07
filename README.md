@@ -168,6 +168,19 @@ A list of the most useful features that every iOS app needs
 
 </details>
 
+### Video
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[AVFoundation 📖][AVFoundationLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [alamofireLink]: https://github.com/Alamofire/Alamofire
@@ -189,3 +202,4 @@ A list of the most useful features that every iOS app needs
 [accessibilityLink]: https://developer.apple.com/accessibility/
 [siriKitLink]: https://developer.apple.com/documentation/sirikit
 [appShortcutsLink]: https://developer.apple.com/documentation/appintents/app-shortcuts
+[AVFoundationLink]: https://developer.apple.com/documentation/avfoundation/
