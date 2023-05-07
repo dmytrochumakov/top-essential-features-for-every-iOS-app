@@ -208,12 +208,26 @@ A list of the most useful features that every iOS app needs
 </details>
 
 ### Widget
+
 <details>
  <summary></summary>
 
 <!--START_SECTION:activity--> 
 
 [WidgetKit 📖][widgetKitLink]
+
+<!--END_SECTION:activity-->
+
+</details>
+
+# iCloud
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[CloudKit 📖][cloudKitLink] 
 
 <!--END_SECTION:activity-->
 
@@ -244,3 +258,4 @@ A list of the most useful features that every iOS app needs
 [coreAudioLink]: https://developer.apple.com/documentation/coreaudio
 [UIActivityViewControllerLink]: https://developer.apple.com/documentation/uikit/uiactivityviewcontroller
 [widgetKitLink]: https://developer.apple.com/documentation/widgetkit
+[cloudKitLink]: https://developer.apple.com/documentation/cloudkit
